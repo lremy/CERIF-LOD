@@ -1575,7 +1575,7 @@ Definition Source: http://wordnetweb.princeton.edu/perl/webwn?s=qualification"""
          rdfs:label "WebService"@en .
 		 
 ###  http://eurocris.org/ontology/cerif#Workflow
-:WebService rdf:type owl:Class ;
+:Workflow rdf:type owl:Class ;
          rdfs:subClassOf :Service ;
          rdfs:comment "A workflow consists of an orchestrated and repeatable pattern of business activity enabled by the systematic organization of resources into processes that transform materials, provide services, or process information."@en ;
          rdfs:isDefinedBy <http://eurocris.org/ontology/cerif> ;
